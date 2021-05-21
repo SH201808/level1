@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "成绩管理系统", "成绩管理系统\成绩管理系统.vcxproj", "{22636284-154C-4DC2-AC01-38C2B74A1779}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据输入csv", "..\数据输入csv\数据输入csv\数据输入csv.vcxproj", "{2699635E-463A-47EB-904B-2955D5267ACE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "制表", "制表\制表.vcxproj", "{9278887B-E21D-493C-81D2-B138C9C09EF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串删除", "字符串删除\字符串删除.vcxproj", "{73BDAA43-216E-4B06-B00B-3E8B5B84C96A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{BAF9B3FF-716F-4141-8CCE-28B1291CAD3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串遍历", "字符串遍历\字符串遍历.vcxproj", "{E1B936FF-1DD8-4896-ABDC-DC976187DCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22636284-154C-4DC2-AC01-38C2B74A1779}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22636284-154C-4DC2-AC01-38C2B74A1779}.Debug|Win32.Build.0 = Debug|Win32
+		{22636284-154C-4DC2-AC01-38C2B74A1779}.Release|Win32.ActiveCfg = Release|Win32
+		{22636284-154C-4DC2-AC01-38C2B74A1779}.Release|Win32.Build.0 = Release|Win32
+		{2699635E-463A-47EB-904B-2955D5267ACE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2699635E-463A-47EB-904B-2955D5267ACE}.Debug|Win32.Build.0 = Debug|Win32
+		{2699635E-463A-47EB-904B-2955D5267ACE}.Release|Win32.ActiveCfg = Release|Win32
+		{2699635E-463A-47EB-904B-2955D5267ACE}.Release|Win32.Build.0 = Release|Win32
+		{9278887B-E21D-493C-81D2-B138C9C09EF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9278887B-E21D-493C-81D2-B138C9C09EF1}.Debug|Win32.Build.0 = Debug|Win32
+		{9278887B-E21D-493C-81D2-B138C9C09EF1}.Release|Win32.ActiveCfg = Release|Win32
+		{9278887B-E21D-493C-81D2-B138C9C09EF1}.Release|Win32.Build.0 = Release|Win32
+		{73BDAA43-216E-4B06-B00B-3E8B5B84C96A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73BDAA43-216E-4B06-B00B-3E8B5B84C96A}.Debug|Win32.Build.0 = Debug|Win32
+		{73BDAA43-216E-4B06-B00B-3E8B5B84C96A}.Release|Win32.ActiveCfg = Release|Win32
+		{73BDAA43-216E-4B06-B00B-3E8B5B84C96A}.Release|Win32.Build.0 = Release|Win32
+		{BAF9B3FF-716F-4141-8CCE-28B1291CAD3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF9B3FF-716F-4141-8CCE-28B1291CAD3D}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF9B3FF-716F-4141-8CCE-28B1291CAD3D}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF9B3FF-716F-4141-8CCE-28B1291CAD3D}.Release|Win32.Build.0 = Release|Win32
+		{E1B936FF-1DD8-4896-ABDC-DC976187DCF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1B936FF-1DD8-4896-ABDC-DC976187DCF3}.Debug|Win32.Build.0 = Debug|Win32
+		{E1B936FF-1DD8-4896-ABDC-DC976187DCF3}.Release|Win32.ActiveCfg = Release|Win32
+		{E1B936FF-1DD8-4896-ABDC-DC976187DCF3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
